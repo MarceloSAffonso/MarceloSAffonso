@@ -24,4 +24,4 @@
     <a href="www.linkedin.com/in/marcelo-affonso-0048282b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
-  ![Snake animation](https://github.com/hugohvm25/hugohvm25/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/MarceloSAffonso/MarceloSAffonso/blob/output/github-contribution-grid-snake-dark.svg)
