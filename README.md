@@ -1,7 +1,7 @@
 # Olá! Eu sou o Marcelo Affonso 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=7A3FF2&size=28&center=true&vCenter=true&width=900&lines=Desenvolvedor+em+formação;Focado+em+desenvolvimento+web;Sempre+buscando+evoluir" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=28&center=true&vCenter=true&width=900&lines=Desenvolvedor+em+formação;Focado+em+desenvolvimento+web;Sempre+buscando+evoluir" />
 </p>
 
 ---
@@ -10,7 +10,6 @@
 
 - 💻 Focado em desenvolvimento web e evolução contínua
 - 🤝 Buscando colaborar em projetos reais
-- 📚 Atualmente cursando a **Residência Serratec**
 - 📫 Contato: **marceloaffonsoo98@gmail.com**
 
 ---
